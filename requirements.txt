@@ -2,5 +2,5 @@ opencv-python
 matplotlib  
 numpy
 pandas
-seaborn
-sklearn
+scikit-learn
+flask
